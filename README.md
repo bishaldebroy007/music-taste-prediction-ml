@@ -1,2 +1,2 @@
 # music-taste-prediction-ml
-I collected a small dataset (unreal) to practice data science. It included age, gender, and music genre. I used a Decision Tree Algorithm to predict genre based on age and gender. This basic project helped me reinforce my data science skills.
+I collected a small, synthetic dataset from a course available on YouTube, to practice data science and machine learning techniques. This dataset included age group, gender, and preferred music genre for a small group of individuals. I employed a Decision Tree Algorithm to train a model that predicts music genre based on age group and gender. This basic project helped me reinforce my understanding of data science and machine learning concepts.
